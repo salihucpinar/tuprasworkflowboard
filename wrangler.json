@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "tuprasworkflowboard",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "d361a01a-ded3-45b1-9d4b-b71ca64bc1bf",
+			"database_name": "tuprasworkflowboard"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
